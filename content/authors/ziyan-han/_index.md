@@ -23,6 +23,7 @@ bio: Student
 interests:
 - Database systems
 - Big Data
+- Graph Computing
 
 education:
   courses:
@@ -43,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hanzy26068641
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,4 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am now pursuing my PhD degree in Beihang University, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/) and [Prof. Ting Deng](http://act.buaa.edu.cn/dengt/). My research interests include database theory and systems and their applications.
+I am now pursuing my PhD degree in Beihang University, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/) and [Prof. Ting Deng](http://act.buaa.edu.cn/dengt/). Prior to joining Beihang University in 2018, I completed my BSc in Computer Science at Xidian University. My research interests are focused on large-scale graph computing and their applications.
