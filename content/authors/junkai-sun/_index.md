@@ -29,10 +29,10 @@ education:
   courses:
   - course: Master in Computer Science
     institution: Xidian University
-    year: Aug. 2018 - now
+    year: Aug. 2017 - now
   - course: BSc in Computer Science
     institution: Xidian University
-    year: Aug. 2014 - Jun. 2018
+    year: Aug. 2013 - Jun. 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
