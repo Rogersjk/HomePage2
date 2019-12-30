@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   company = "JD Digits"
   company_url = ""
   location = "Beijing"
-  date_start = "2020-05-11"
-  date_end = "2018-09-11"
+  date_start = "2018-01-21"
+  date_end = "2020-05-11"
   description = """Spatio-temporal data research and applications."""
 
   [[experience]]
