@@ -85,16 +85,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wallow_s@outlook.com"
-phone = "888 888 88 88"
+email = "junkaisun@outlook.com"
+phone = "666 666 66 66"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Xueyuan Road NO. 37", city = "Beijing", region = "Haidian District", postcode = "100191", country = "China", country_code = "CN"}
+address = {street = "Kechuang 11 Street NO. 37", city = "Beijing", region = "Daxing District", postcode = "102600", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.9792", longitude = "116.3409"}
+coordinates = {latitude = "39.785", longitude = "116.5575"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -109,7 +109,7 @@ coordinates = {latitude = "39.9792", longitude = "116.3409"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/hanzy26068641"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/hanzy26068641"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -256,7 +256,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = "pk.eyJ1Ijoicm9nZXJzamsiLCJhIjoiY2s0cWxubm10MTdtYTNuczdydDd5NzQ3ciJ9.Lv8qc7hPDKs8EKXVEJrTww"
-  zoom = 15
+  zoom = 14
 
 ############################
 ## Marketing

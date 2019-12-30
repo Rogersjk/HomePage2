@@ -13,5 +13,3 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-
-* Nov. 2019 : One paper was accpted in ICDE 2020!

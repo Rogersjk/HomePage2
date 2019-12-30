@@ -1,34 +1,34 @@
 ---
 # Display name
-name: Ziyan Han
+name: Junkai Sun
 
 # Username (this should match the folder name)
 authors:
-- Ziyan Han
+- Junkai Sun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PHD Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Beihang University
+- name: Xidian University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student
 
 interests:
-- Database systems
-- Big Data
-- Graph Computing
+- Spatio-temporal Data
+- Deep Learning
+- Time Series Prediction
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: Beihang University
+  - course: Master in Computer Science
+    institution: Xidian University
     year: Aug. 2018 - now
   - course: BSc in Computer Science
     institution: Xidian University
@@ -42,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/hanzy26068641
+  link: https://www.linkedin.com/in/junkai-sun-aa2438121/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ziyanhan
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am now pursuing my PhD degree in Beihang University, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/) and [Prof. Ting Deng](http://act.buaa.edu.cn/dengt/). Prior to joining Beihang University in 2018, I completed my BSc in Computer Science at Xidian University. My research interests are focused on large-scale graph computing and their applications.
+I am now a master student in Xidian University, supervised by [Prof. Yu Zheng](http://urban-computing.com/yuzheng) and [Junbo Zhang](https://zhangjunbo.org/). Prior to that, I completed my BSc in Computer Science at Xidian University. My research interests are focused on spatio-temporal data mining and deep learning in urban computing.
