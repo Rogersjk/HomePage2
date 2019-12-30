@@ -16,6 +16,6 @@ date_format = "Jan 2006"
 
 * Merit Student of Beihang University, 2019.
 * The Second Prize Scholarship of Beihang University, 2019.
-* Freshmen Scholarships of Beihang University, 2018.
-* National Encouragement scholarship, 2016.
+* Freshmen Scholarship of Beihang University, 2018.
+* National Encouragement Scholarship, 2016.
 * Top Grade Scholarship of Xidian University, 2015
